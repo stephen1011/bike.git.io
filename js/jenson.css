@@ -1,0 +1,91 @@
+body
+{
+    background-image: url("C:\project\images (67).jpeg");
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.col-md-4
+{
+    background-color: black;
+    color: white;
+}
+.col-md-6
+{
+    background-image: url("C:\project\images (67).jpeg");
+  
+    color: white;
+}
+.score
+{
+    margin-bottom:50px;
+    margin-left: 30%;
+    font-size: 20px;
+    
+}
+table {
+    width: 100%;
+    border: 2px solid;
+    margin-top: -43%;
+
+    
+  }
+  
+  th {
+    
+    text-align: center;
+    height: 60px;
+    border: 2px solid;
+  }
+  td {
+    text-align: center;
+    border: 2px solid;
+    height: 30px;
+  }
+  .bowling
+  {
+    margin-bottom:50px;
+    margin-left: 30%;
+    font-size: 20px;
+
+  }
+  .bowl
+  {
+    width: 100%;
+    border: 3px solid;
+    margin-top: -129px;
+
+  }
+
+ul
+ {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+  }
+  
+  li a {
+    list-style-type: none;
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #555;
+    color: white;
+  }
+  .active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  .teams
+  {
+    color: red;
+    margin-top: 10px;
+  }
+  .teams td{
+    height: 60px;
+    width: 60px;
+
+  }

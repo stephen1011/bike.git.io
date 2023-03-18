@@ -1,0 +1,281 @@
+nav.navbar.navbar-default {
+    margin-top: -14px;
+background-attachment:scroll;
+}
+ul.nav.navbar-nav {
+    margin-left: 30%;
+}
+.container-fluid {
+    background-color: #f7f7ff;
+}
+a.navbar-brand {
+    margin-top: 20px;
+}
+a.get {
+    background-color: #e1e5ff;
+    color: #505eff!important;
+    border-radius: 15px;
+    padding: 10px !important;
+    margin-top: 5px;
+}
+select#drop {
+    margin-top: 16px;
+    border: transparent;
+    background-color: #f7f7ff;
+}
+p.bul,p.fe {
+    text-align: center;
+    font-size: 26px;
+}
+.row.a {
+    background-color: #466393;
+   padding: 65px;
+}
+p.vol {
+    color: white;
+    font-size: 37px;
+}
+p.lore {
+    color: white;
+    text-align: left;
+    width: 83%;
+}
+a.About {
+    color: white;
+    text-decoration: none;
+    background-color: #0000001f;
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+p.corp {
+    color: white;
+    font-size: 15px;
+}
+p.sunt {
+    color: white;
+    text-align: initial;
+}
+img.kty {
+    width: 21%;
+height: 38px;
+}
+img.ba {
+    width: 12%;
+    margin-right: 15px;
+    margin-left: 35px;
+    height: 75px;
+}
+p.man{
+text-align:center;
+}
+p.volup {
+    font-size: 22px;
+}
+p.lorem {
+    font-size: 19px;
+    margin-bottom: 52px;
+    margin-top: 24px;
+}
+li {
+    margin-bottom: 12px;
+    margin-top: 20px;
+}
+.row.bc {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    background-color: #466393;
+}
+ .num {
+    border: 2px solid #000000;
+    border-radius: 25px;
+}
+p.ispu {
+    font-size: 20px;
+}
+.grid-container.a {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+   margin-bottom: 50px;
+}
+.col-md-12.ser {
+    background-color: #466393;
+}
+.col-md-12.sev {
+    background-color: #466393;
+
+}
+.grid-item.aa,.grid-item.ab,.grid-item.ac,.grid-item.ad {
+    background-color: white;
+    width: 82%;
+    height: 230px;
+margin-left: 25px;
+margin-top:25px;
+}
+.grid-item.aa:hover,.grid-item.ab:hover,.grid-item.ac:hover,.grid-item.ad:hover {
+   width: 90%;
+    height: 250px;
+margin-left: 20px;
+margin-top:20px;
+}
+img.edu {
+    width: 90%;
+margin-top: 30px;
+}
+p.isu {
+    text-align: center;
+}
+p.mansa {
+    text-align: center;
+    margin-bottom: 30px;
+    color: white;
+}
+p.ser {
+    color: white;
+    margin-top: 30px;
+   text-align: center;
+    font-size: 26px;
+
+}
+.grid-item.aa:hover,.grid-item.ab:hover,.grid-item.ac:hover{
+
+box-shadow:0 0 15px -2px #444444;
+}
+.grid-container.b {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.image {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middle {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top:80%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.abc:hover .image {
+  opacity: 0.3;
+}
+
+.abc:hover .middle {
+  opacity: 1;
+}
+
+p.text {
+  color: white;
+  font-size: 16px;
+}
+section#Team {
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+p.add,p.ad,p.ade {
+    text-align: center;
+}
+.col-md-12.add {
+    background-color: whitesmoke;
+    padding: 35px;
+}
+.col-md-6.call {
+    background-color: whitesmoke;
+    margin-top: 20px;
+padding-top: 20px;
+    padding-bottom: 20px;
+    width: 48%;
+    margin-left: 2%;
+}.col-md-6.em {
+    background-color: whitesmoke;
+    margin-top: 20px;
+padding-top: 20px;
+    padding-bottom: 20px;
+    width: 48%;
+    margin-right: 2%;
+}
+.col-md-6.call {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 48%;
+    margin-left: 2%;
+}
+input#lname {
+    width: 48%;
+margin-left: 1%;
+
+}
+input#fname {
+    width: 48%;
+margin-right: 2%;
+}
+input#lnae {
+    width: 100%;
+}
+textarea {
+    width: 100%;
+    height: 96px;
+}
+form {
+    padding: 20px;
+    background-color: whitesmoke;
+}
+section#Contact {
+    margin-bottom: 50px;
+}
+.col-md-5.join {
+    width: 41%;
+    padding: 80px;
+}
+.row.get {
+    background-color: white;
+    padding-left: 69px;
+}
+.bul b 
+{
+    color: orangered;
+}
+.num img
+{
+    
+}
+.model{
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+   text-align: center;
+    font-size: 26px;
+    margin-bottom: 20px;
+
+}
+.col-md-6
+{
+    margin-top: 20px;
+   
+}
+.bi 
+{
+        width: 441px;
+        margin-left: 68px;
+        margin-top: 0px;
+    margin-bottom: 20px;
+    border: 2px solid black;
+  border-radius: 25px;
+    }
+    .volup, .lorem ,.vo
+    {
+        color: white;
+    }
+   .gmap
+   {
+    margin-top: -61px;
+   }
+    
